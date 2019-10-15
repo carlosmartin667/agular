@@ -1,4 +1,12 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\my-first-project",
+    "\\my-first-project\\src",
+    "\\my-first-project\\src\\app",
+    "\\my-first-project\\src\\assets",
+    "\\my-first-project\\src\\assets\\data"
+  ],
+  "SelectedNode": "\\my-first-project\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
